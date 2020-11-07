@@ -1,0 +1,13 @@
+{
+  "name": "huami",
+  "version": "1.0.0",
+  "description": "小米运动刷步数",
+  "main": "index.js",
+  "repository": "https://github.com/SYYc/huami.git",
+  "author": "rxxcy",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "qs": "^6.9.4"
+  }
+}
